@@ -181,6 +181,4 @@ Project/
 
 **Harshul Kumawat**
 
-B.Tech CSE (AI & ML)
-
 Decode Labs Data Science Internship
